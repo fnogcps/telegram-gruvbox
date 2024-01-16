@@ -60,7 +60,7 @@ material_purple: #d3869b;
 material_aqua:   #89b482;
 material_orange: #e78a4e;
 
-none: #00000000;
+none: bg0;
 
 windowActiveTextFg: bright_orange; // fallback for active text like online status
 windowBg: bg0_hard; // fallback for background
